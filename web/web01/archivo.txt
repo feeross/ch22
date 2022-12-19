@@ -3,3 +3,10 @@ Tengo un perro y una gatita
 Se llaman Ares y Sasha
 Tienen 4 y 19 años
 
+--------------------------
+Se agregan nuevas lineas para volver a subir el archivo
+
+Prueba dos del commit
+github es una herramienta muy util 
+
+
